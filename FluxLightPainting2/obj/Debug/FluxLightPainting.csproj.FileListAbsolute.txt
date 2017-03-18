@@ -1,0 +1,10 @@
+D:\Visual Studio\FluxLightPainting\FluxLightPainting2\bin\Debug\FluxLightPainting2.exe.config
+D:\Visual Studio\FluxLightPainting\FluxLightPainting2\bin\Debug\FluxLightPainting2.exe
+D:\Visual Studio\FluxLightPainting\FluxLightPainting2\bin\Debug\FluxLightPainting2.pdb
+D:\Visual Studio\FluxLightPainting\FluxLightPainting2\obj\Debug\FluxLightPainting.csprojResolveAssemblyReference.cache
+D:\Visual Studio\FluxLightPainting\FluxLightPainting2\obj\Debug\FluxLightPainting2.Form1.resources
+D:\Visual Studio\FluxLightPainting\FluxLightPainting2\obj\Debug\FluxLightPainting2.Form2.resources
+D:\Visual Studio\FluxLightPainting\FluxLightPainting2\obj\Debug\FluxLightPainting2.Properties.Resources.resources
+D:\Visual Studio\FluxLightPainting\FluxLightPainting2\obj\Debug\FluxLightPainting.csproj.GenerateResource.Cache
+D:\Visual Studio\FluxLightPainting\FluxLightPainting2\obj\Debug\FluxLightPainting2.exe
+D:\Visual Studio\FluxLightPainting\FluxLightPainting2\obj\Debug\FluxLightPainting2.pdb
